@@ -21,7 +21,7 @@
 
 <p align="center">
 <a href="https://codepen.io/technoavi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="technoavi" height="30" width="30" /></a>
-<a href="https://twitter.com/technoavi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="technoavi" height="30" width="30" /></a>
+<a href="https://twitter.com/techno_avi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="techno_avi" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/technoavi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="technoavi" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/technoavi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="technoavi" height="30" width="30" /></a>
 <a href="https://codesandbox.com/technoavi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="technoavi" height="30" width="30" /></a>
