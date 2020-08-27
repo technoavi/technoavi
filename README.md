@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **IPSM and LMS**
 
-- 🌱 I’m currently learning **Deep Learning, Graph Analysis and Mining**
+- 🌱 I’m currently learning **Deep Learning, Graph Algorithm and Mining**
 
 - 👯 I’m looking to collaborate on **Deep learning projects**
 
 - 💬 Ask me about **Microservice, Springboot, JPA, Hibernate, React Js, React native, Android, Machine Learning**
 
-- 📫 How to reach me **avs0949@gmail.com**
+- 📫 How to reach me **technoavi28@gmail.com**
 
 - ⚡ Fun fact **Sketching or working on new Ideas if not coding!**
 
