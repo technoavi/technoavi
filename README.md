@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technoavi" alt="technoavi" /> </p>
 
-- 🔭 I’m currently working on **IPSM and LMS**
+- 🔭 I’m currently working on **LMS**
 
 - 🌱 I’m currently learning **Deep Learning, Graph Algorithm and Mining**
 
